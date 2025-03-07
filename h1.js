@@ -1,0 +1,1 @@
+export name = document.getElementById('jei293bodbdi3').value;
